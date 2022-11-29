@@ -29,5 +29,6 @@ yarn lint
 ```
 
 ### Customize configuration
-
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# tip: use your cell phone for an optimal experience
