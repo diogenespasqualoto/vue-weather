@@ -32,3 +32,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # tip: use your cell phone for an optimal experience or access the mobile version of the site
+## this URL will help you find the places to serach on aplication: https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=-41.9032&lon=-111.9727&zoom=3
